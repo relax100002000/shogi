@@ -1,0 +1,30 @@
+{
+  "name": "將棋新手定跡",
+  "short_name": "將棋定跡",
+  "description": "將棋新手定跡學習：棋盤、棋譜與解說",
+  "lang": "zh-Hant",
+  "start_url": "./%E5%B0%87%E6%A3%8B%E6%96%B0%E6%89%8B%E5%AE%9A%E8%B7%A1.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EDEFEA",
+  "theme_color": "#2C4A78",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
